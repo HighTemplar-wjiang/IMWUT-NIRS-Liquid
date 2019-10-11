@@ -1,0 +1,17 @@
+ID,Tag,Name,Sugar,Carbonated,Notes
+sd0,water,Water,0,False,
+sd1,applejuice,Apple Juice,9.5,FALSE,
+sd2,orangejuice,Orange Juice,7.7,FALSE,
+sd3,colazero,Cola Zero,0,TRUE,
+sd4,colaclassic,Cola Classic,10.6,TRUE,
+sd5,peachicetea,Peach Ice Tea,5.3,FALSE,
+sd6,coconut,Coconut Water,3.4,FALSE,
+sd7,monstergreen,Monster Green,11.4,TRUE,
+sd8,gorillaturbo,Gorilla Turbo,11,TRUE,
+sd9,gorillafuel,Gorilla Fuel,6,TRUE,
+sd10,jasminetea,Jasmine Lychee Ice Green Tea,3.5,FALSE,
+sd11,lemonicetea,Leamon Ice Tea,5.2,FALSE,
+sd12,litemilk,Australian Lite Milk,4.9,FALSE,fat 1.3
+sd13,originalmilk,PURA Original Milk,4.4,FALSE,fat 3.4
+sd14,soymilklite,Soy Milk Lite,2.1,FALSE,fat 1.8
+sd15,soymilkregular,Soy Milk Regular,2.1,FALSE,fat 3.0

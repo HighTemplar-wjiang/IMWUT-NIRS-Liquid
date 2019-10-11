@@ -1,0 +1,3 @@
+[submodule "src/standalone"]
+	path = src/standalone
+	url = git@github.com:HighTemplar-wjiang/NIRScanner-Python.git
