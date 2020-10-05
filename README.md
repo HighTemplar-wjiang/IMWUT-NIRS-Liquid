@@ -1,7 +1,6 @@
 # IMWUT-NIRS-Liquid
 This is the Source code repository for IMWUT paper:
-*Probing Sucrose Contents in Everyday Drinks Using Miniaturized Near-Infrared Spectroscopy Scanners*
-(to appear)
+*Probing Sucrose Contents in Everyday Drinks Using Miniaturized Near-Infrared Spectroscopy Scanners* (IMWUT)
 
 We show a generic and mobile method to estimate concentration level for a specific ingredient in a solution (*e.g.*, sugar concentration in soft-drinks), identify liquids (*e.g.*, discriminate different drinks or alcohols), or even detect counterfeit liquids (*e.g.*, detect counterfeit perfume or alcohols), etc. 
 
